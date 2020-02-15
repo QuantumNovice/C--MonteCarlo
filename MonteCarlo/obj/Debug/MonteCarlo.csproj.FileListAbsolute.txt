@@ -1,0 +1,5 @@
+T:\Coding\Chash\hello\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+T:\Coding\Chash\hello\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+T:\Coding\Chash\hello\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+T:\Coding\Chash\hello\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+T:\Coding\Chash\hello\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
